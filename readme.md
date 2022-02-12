@@ -1,5 +1,4 @@
 
-<!---
 Jag använde Net 6.0
 Om du vill testa Api via post man så skriv dotnet run och länken till api är
 https://localhost:5000/api
@@ -26,4 +25,3 @@ Om du vill testa andra tillgängliga examplar så skriv så här
 ]
 Method är Put 
 -----------------------------------------
--->
