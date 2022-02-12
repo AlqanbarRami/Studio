@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Domain",
+    "\\Domain\\Repositories",
+    "\\Domain\\Repositories\\FilmRepository",
+    "\\Domain\\Repositories\\FilmStudioRepository"
+  ],
+  "SelectedNode": "\\Domain\\Repositories\\FilmStudioRepository\\FilmStudioRepository.cs",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "5c959d50-7291-46aa-92a1-1d06024f81fb": {
+      "ProjectGuid": "5c959d50-7291-46aa-92a1-1d06024f81fb",
+      "DisplayName": "MoviesApi",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

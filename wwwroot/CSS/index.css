@@ -1,0 +1,125 @@
+﻿body {
+    margin:0;
+    padding: 0;
+}
+
+.home-container{
+    display : flex;
+    flex-direction : column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    background-color:beige;
+}
+
+.sub-container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content:center;
+    align-items:center;
+    padding: 30px;
+    width: 60%;
+    background-color:white;
+    box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+
+}
+.login-container{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    width: 60%;
+    padding: 30px;
+    background-color:blueviolet;
+
+}
+#loginDiv,
+#loggedDiv{
+ width: 100%;
+ align-items: center;
+ justify-content: center;
+
+}
+
+input{
+    padding: 5px;
+    margin-right: 20px;
+}
+
+#divForFilm{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+    width: 30%;
+    height: auto;
+    padding: 10px;
+    margin: 10px;
+
+}
+
+#divForMyFilms{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+    width: 80%;
+    height: auto;
+    padding: 10px;
+    margin: 10px;
+    background-color: white;
+    
+}
+
+#mainDivForMyFilms{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+    width: 100%;
+    border-radius: 10px;
+
+}
+span{
+    margin: 5px;
+}
+
+#Borrow,
+#returnIt,
+#closeTogg{
+    padding: 5px 10px 5px 10px;
+    color: white;
+    background-color: blueviolet;
+    border: none;
+    outline-style: none;
+    margin: 5px;
+    cursor: pointer;
+    border-radius: 3px;
+}
+
+#login-button,
+#logout-button,
+#your-film
+{
+    padding: 5px 10px 5px 10px;
+    color: blueviolet;
+    background-color: white;
+    border: none;
+    outline-style: none;
+    margin: 5px;
+    cursor: pointer;
+    border-radius: 3px;
+}
+
+#Borrow:hover,
+#login-button:hover,
+#logout-button:hover,
+#your-film:hover{
+
+    transform: scale(1.1);
+}

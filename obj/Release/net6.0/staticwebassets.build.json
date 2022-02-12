@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "/TF2UkhHWY5HPrYK9s44m+immbrYkplsV5BR+PuIkj4=",
+  "Source": "MoviesApi",
+  "BasePath": "_content/MoviesApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MoviesApi\\wwwroot",
+      "Source": "MoviesApi",
+      "ContentRoot": "C:\\Users\\ramia\\source\\repos\\MoviesApi\\MoviesApi\\wwwroot\\",
+      "BasePath": "_content/MoviesApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\ramia\\source\\repos\\MoviesApi\\MoviesApi\\wwwroot\\CSS\\index.css",
+      "SourceId": "MoviesApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ramia\\source\\repos\\MoviesApi\\MoviesApi\\wwwroot\\",
+      "BasePath": "_content/MoviesApi",
+      "RelativePath": "CSS/index.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\CSS\\index.css"
+    },
+    {
+      "Identity": "C:\\Users\\ramia\\source\\repos\\MoviesApi\\MoviesApi\\wwwroot\\index.html",
+      "SourceId": "MoviesApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ramia\\source\\repos\\MoviesApi\\MoviesApi\\wwwroot\\",
+      "BasePath": "_content/MoviesApi",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\ramia\\source\\repos\\MoviesApi\\MoviesApi\\wwwroot\\JavaScript\\index.js",
+      "SourceId": "MoviesApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ramia\\source\\repos\\MoviesApi\\MoviesApi\\wwwroot\\",
+      "BasePath": "_content/MoviesApi",
+      "RelativePath": "JavaScript/index.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\JavaScript\\index.js"
+    }
+  ]
+}
