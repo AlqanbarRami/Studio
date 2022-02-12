@@ -10,7 +10,8 @@ https://localhost:5000/api/filmstudio
 Om du vill kolla på Klientgränssnittet så tryck på IIS Express eller gå till länken https://localhost:5000
 
 -----------------------------------------------
-Om du vill testa andra tillgängliga examplar så skriv så här
+Om du vill testa andra tillgängliga examplar så skriv så här , Method är Put 
+
 [
     {
     "op": "replace",
@@ -23,5 +24,5 @@ Om du vill testa andra tillgängliga examplar så skriv så här
 
 }
 ]
-Method är Put 
------------------------------------------
+
+
